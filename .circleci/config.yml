@@ -26,6 +26,6 @@ jobs:
           path: /tmp/test-reports
 
 workflows:
-  sample:
+  workflow:
     jobs:
       - build
